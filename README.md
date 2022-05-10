@@ -26,7 +26,7 @@ What's done for you:
 
 If you want to use it:
 - Go to the Codecov website and create an account and setup permissions.
-- Add your repository (you can go there directly by going to https://codecov.io/gh/your-github-username/travis-ci-tutorial-java)
+- Add your repository (you can go there directly by going to https://codecov.io/gh/XIANY1203/travis-ci-tutorial-java)
 - Fix the `README.md` badge.
 
 If you don't want it:
